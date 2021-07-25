@@ -3,7 +3,7 @@ const hoursSpan = document.querySelector("#hours");
 const minsSpan = document.querySelector("#mins");
 const secsSpan = document.querySelector("#secs");
 
-let target = "2021-07-25";
+let target = "2022-01-01";
 
 setInterval(() => {
   let currentDate = new Date();
